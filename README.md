@@ -1,29 +1,36 @@
 ProjetoSo
 
-Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+Começando
+Estas instruções irão fornecer uma cópia do projeto em execução em sua máquina local para fins de desenvolvimento e testes.
 
-Prerequisites
-In order to run this project, you will need to have the GCC and Make packages installed on your system.
+Pré-requisitos
+Para executar este projeto, você precisará ter os pacotes GCC e Make instalados no seu sistema.
 
-For Ubuntu and Debian based systems:
+Para sistemas baseados em Ubuntu e Debian:
 
+Copy code
 sudo apt-get update
 sudo apt-get install build-essential
+Para sistemas baseados em Fedora e Red Hat:
 
-Running the project
-Open two terminal windows
-In one of the terminals, navigate to the project directory and type make clean. This will clean any previous builds.
-In the same terminal, type make. This will compile the project.
-In the first terminal type ./simulador to run the simulator
-In the second terminal type ./monitor to run the monitor
-Note: This project is intended to be run on a Unix system.
+Executando o projeto
+Abra dois terminais
+Em um dos terminais, navegue até o diretório do projeto e digite make clean. Isso limpará qualquer build anterior.
+No mesmo terminal, digite make. Isso compilará o projeto.
+No primeiro terminal, digite ./simulador para executar o simulador
+No segundo terminal, digite ./monitor para executar o monitor.
 
-Built With
-GCC - The C compiler used
-Make - Build automation tool
-Authors
-João Miguel Vasconcelos - Author1
-João Pedro Martins - Author2
-License
-This project is licensed under the [license name] License - see the LICENSE.md file for details
+Nota: Este projeto deve ser executado em um sistema Unix.
+
+Construído com
+
+GCC - O compilador C usado
+Make - Ferramenta de automação de construção
+Autores
+
+João Miguel Vasconcelos 2078020
+João Pedro Martins 2081920
+Licença
+
+Este projeto está licenciado sob a licença [nome da licença] - consulte o arquivo [LICENSE.md] (LICENSE.md) para obter detalhes
+
