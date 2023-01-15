@@ -8,15 +8,15 @@ Para executar este projeto, você precisará ter os packages GCC e Make instalad
 
 **Para sistemas baseados em Ubuntu e Debian:**
 
-sudo apt-get update
-sudo apt-get install build-essential
+- `sudo apt-get update`
+- `sudo apt-get install build-essential`
 
 ## Executando o projeto
-Abra dois terminais
-Em um dos terminais, navegue até o diretório do projeto e digite make clean. Isso limpará qualquer build anterior.
-No mesmo terminal, digite make. Isso compilará o projeto.
-No primeiro terminal, digite ./simulador para executar o simulador
-No segundo terminal, digite ./monitor para executar o monitor.
+1. Abra dois terminais
+2. Em um dos terminais, navegue até o diretório do projeto e digite make clean. Isso limpará qualquer build anterior.
+3. No mesmo terminal, digite `make`. Isso compilará o projeto.
+4. No primeiro terminal, digite `./simulador` para executar o simulador.
+5. No segundo terminal, digite `./monitor` para executar o monitor.
 
 **Nota:** Este projeto deve ser executado em um sistema Unix.
 
