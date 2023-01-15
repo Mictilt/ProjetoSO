@@ -1,12 +1,12 @@
 # ProjetoSo
 
 ## Começando
-Estas instruções irão fornecer uma cópia do projeto em execução em sua máquina local para fins de desenvolvimento e testes.
+Estas instruções irão fornecer uma forma de testar o projeto na sua máquina local para fins de desenvolvimento e testes.
 
 ## Pré-requisitos
-Para executar este projeto, você precisará ter os pacotes GCC e Make instalados no seu sistema.
+Para executar este projeto, você precisará ter os packages GCC e Make instalados no seu sistema.
 
-Para sistemas baseados em Ubuntu e Debian:
+**Para sistemas baseados em Ubuntu e Debian:**
 
 sudo apt-get update
 sudo apt-get install build-essential
@@ -18,7 +18,7 @@ No mesmo terminal, digite make. Isso compilará o projeto.
 No primeiro terminal, digite ./simulador para executar o simulador
 No segundo terminal, digite ./monitor para executar o monitor.
 
-Nota: Este projeto deve ser executado em um sistema Unix.
+**Nota:** Este projeto deve ser executado em um sistema Unix.
 
 ## Construído com
 
