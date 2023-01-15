@@ -28,7 +28,4 @@ Para executar este projeto, você precisará ter os packages GCC e Make instalad
 
 - João Miguel Vasconcelos 2078020
 - João Pedro Martins 2081920
-## Licença
-
-Este projeto está licenciado sob a licença [nome da licença] - consulte o arquivo [LICENSE.md] (LICENSE.md) para obter detalhes
 
